@@ -6,6 +6,7 @@ Artificial Intelligence has changed the cybersecurity landscape in a drastic way
 How AI changes Phishing
 =======================
 Artificial Intelligence has inverted the traditional phishing model, where attackers sent large volumes of poorly written emails and hoped a small percentage would succeed. Attackers can now generate high-quality messages tailored to specific targets, reducing detection with success rates soaring dramatically. Some of the modifications to the traditional model include:
+
 •	Language Perfection – Generative models are able to eliminate grammatical errors and clumsy phrases that hitherto, raised concern. CMIT solutions discuss how foreign criminal actors are able to generate near-perfect messages now, eliminating the errors that occurred when they translated from their language to English https://cmitsolutions.com/blog/ai-phishing/.
 
 •	Personalization at scale – Models ingest publicly available data from social media and OSINT sources to craft messages that reference real events, colleagues, family etc. Researchers at IBM used only a few prompts to generate phishing emails in mere minutes while human experts needed 16 hours. The end results were comparable https://www.brside.com/blog/the-complete-guide-to-spotting-ai-generated-phishing-attacks-in-2025.
@@ -29,6 +30,7 @@ Realistic Phishing Scenarios
 Why Humans Alone Can No Longer Detect Phishing Reliably
 =======================================================
 AI – generated attacks purposely exploit cognitive biases such as familiarity, urgency and authority. Hence, traditional security awareness training is no longer sufficient and must be complemented or replaced. When messages reference real events and people, arrive at the expected time and look and feel authentic, even trained users will make mistakes. Human limitations such as:
+
 •	Trust exploitation – Familiar names, brands and writing styles erode alertness.
 
 •	Cognitive overload – Workers process large volumes of emails, messages, requests etc. reducing careful scrutiny.
@@ -40,6 +42,7 @@ mean humans can longer be trusted to deal with phishing attacks without augmenti
 Using AI as a Countermeasure
 ============================
 Those capabilities that empower attackers can be repurposed defensively. AI-driven security systems shift phishing defense from static rules to adaptive intelligence. Attackers are developing AI that adapt in real-time based on victim responses or if they respond. If an initial approach does not work, the model adjusts its tactics automatically. This creates a moving target that is much harder to defend against.
+
 •	AI-Powered Email Filtering Evolution - Modern email security systems leverage machine learning algorithms to evaluate incoming emails for patterns that indicate AI content. These advanced systems go beyond traditional signature-based detection to examine the subtle characteristics that distinguish AI-generated text from human-written communications.
 
 •	Behavioral Analysis and Anomaly Detection - AI security tools continuously monitor communication patterns. These systems can detect deviations from normal behavior patterns, such as unusual language patterns, timing, or communication styles.
